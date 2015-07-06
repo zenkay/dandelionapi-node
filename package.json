@@ -1,5 +1,5 @@
 {
-  "name": "dandelionapi-js",
+  "name": "dandelionapi",
   "version": "0.0.1",
   "description": "Javascript Package for Dandelion API service",
   "main": "index.js",
