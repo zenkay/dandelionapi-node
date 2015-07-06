@@ -1,0 +1,23 @@
+{
+  "name": "dandelionapi-js",
+  "version": "0.0.1",
+  "description": "Javascript Package for Dandelion API service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zenkay/dandelionapi-js.git"
+  },
+  "keywords": [
+    "entity",
+    "sentiment"
+  ],
+  "author": "Andrea Mostosi <andrea.mostosi@zenkay.net> (http://blog.andreamostosi.name)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenkay/dandelionapi-js/issues"
+  },
+  "homepage": "https://github.com/zenkay/dandelionapi-js#readme"
+}
